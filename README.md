@@ -6,7 +6,7 @@
 <li>No auto prediction for search.
 <li>No default full screen,you can choose your video quality,which will let you watch fullscreen.</li>
 
-<h3>Download <a href="Unofficial-APK-ONLY/raw/master/kcv1-0-1.apk">here</a></h3>
+<h3>Download <a href="https://github.com/Git3m/Kisscartoon-Unofficial-APK-ONLY/raw/master/kcv1-0-1.apk">here</a></h3>
 
 
 Note:If the app closes and you continue to hear sound,clear the app from the recent apps section.
